@@ -1,3 +1,4 @@
-function setup() {
-  createCanvas(400, 400);
+function newDNA() {
+  var squareX = floor(random(0,400)) ;
+  
 }
